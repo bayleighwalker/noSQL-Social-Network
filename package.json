@@ -20,6 +20,6 @@
   "homepage": "https://github.com/bayleighwalker/noSQL-Social-Network-API#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.13.2"
+    "mongoose": "^5.13.5"
   }
 }
