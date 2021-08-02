@@ -18,7 +18,7 @@
     "url": "https://github.com/bayleighwalker/noSQL-Social-Network/issues"
   },
 <<<<<<< HEAD
-  "homepage": "https://github.com/bayleighwalker/noSQL-Social-Network-API#readme",
+  "homepage": "https://github.com/bayleighwalker/noSQL-Social-Network#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.13.5"
