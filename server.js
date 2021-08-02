@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
 mongoose.connect(
-	process.env.MONGODB_URI || "mongodb://localhost/social-network",
+	process.env.MONGODB_URI || "mongodb://localhost/noSQL-social-network",
 	{
 		useFindAndModify: false,
 		useNewUrlParser: true,
@@ -17,7 +17,6 @@ mongoose.connect(
 	}
 );
 
-// Use this to log mongo queries being executed!
 mongoose.set("debug", true);
 
 app.use(require("./routes"));

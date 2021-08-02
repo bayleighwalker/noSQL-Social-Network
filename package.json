@@ -1,7 +1,7 @@
 {
-  "name": "nosql-social-network",
+  "name": "18-social-media",
   "version": "1.0.0",
-  "description": "",
+  "description": "MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Over the last part of this course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,12 +11,15 @@
     "type": "git",
     "url": "git+https://github.com/bayleighwalker/noSQL-Social-Network-API"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bayleighwalker/noSQL-Social-Network-API/issues"
   },
   "homepage": "https://github.com/bayleighwalker/noSQL-Social-Network-API#readme",
-
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
   }
 }
