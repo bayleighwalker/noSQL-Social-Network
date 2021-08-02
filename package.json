@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bayleighwalker/noSQL-Social-Network-API"
+    "url": "git+https://github.com/bayleighwalker/noSQL-Social-Network"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bayleighwalker/noSQL-Social-Network-API/issues"
+    "url": "https://github.com/bayleighwalker/noSQL-Social-Network/issues"
   },
-  "homepage": "https://github.com/bayleighwalker/noSQL-Social-Network-API#readme",
+  "homepage": "https://github.com/bayleighwalker/noSQL-Social-Network#readme",
 
   }
 }
